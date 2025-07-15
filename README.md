@@ -63,3 +63,5 @@ Can be further used for data analysis or model training
 
 This project demonstrates that even with basic PySpark operations, powerful and scalable data cleaning workflows can be built. It's a great starting point for students and beginners in data science who want to get hands-on experience with PySpark and big data basics.
 
+<img width="1280" height="720" alt="Image" src="https://github.com/user-attachments/assets/2c9201e2-9ae5-4aea-a695-e39789fead36" />
+
