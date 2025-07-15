@@ -52,12 +52,11 @@ Using dropDuplicates(), we eliminate repeated records to maintain data integrity
 With PySpark's dropna() method, rows with null or missing values are removed. This is the simplest and most commonly used approach to handle missing data when cleaning is prioritized over imputation.
 
 📁 Folder Structure:
-bash
-Copy
-Edit
 ├── data_cleaning_with_pyspark.ipynb   # Jupyter Notebook (or .py file) with full code
 ├── sample_dataset.csv                 # Optional: Sample input dataset
 ├── README.md                          # Project explanation and documentation
+
+
 ✅ Outcome:
 By the end of this project, we obtain a clean dataset that:
 
